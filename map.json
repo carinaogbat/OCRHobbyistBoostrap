@@ -1,0 +1,98 @@
+[
+	{
+		"title" : "Tahoe",
+		"lat" : 39.20540744526937,
+		"lon" : -120.20096088711465,
+		"desc" : "<p>Where I completed a Beast and Ultra Beast</p>"
+	},
+	{
+		"title" : "San Francisco",
+		"lat" : 37.72430382461418,
+		"lon" : -122.38240331285982,
+		"desc" : "<p>Where I completed a Stadion Sprint.</p>"
+	},
+	{
+		"title" : "Montana",
+		"lat" : 48.049710217735516,
+		"lon" : -114.0791855128875,
+		"desc" : "<p>Where I completed a Sprint and Beast<p>"
+	},
+	{
+		"title" : "Colorado",
+		"lat" : 38.73743767945968,
+		"lon" : -104.78386467774328,
+		"desc" : "<p>Where I completed a Sprint and Super</p>"
+	},
+	{
+		"title" : "Idaho",
+		"lat" : 44.00566949302964,
+		"lon" : -116.77700921761462,
+		"desc" : "<p>Where I completed a Sprint</p>"
+	},
+	{
+		"title" : "Seattle",
+		"lat" : 47.82737882491394,
+		"lon" : -122.01030197327661,
+		"desc" : "<p>Where I completed a Sprint and a Beast</p>"
+	},
+	{
+		"title" : "San Luis Obispo",
+		"lat" : 35.364586052137035,
+		"lon" : -120.55461374134819,
+		"desc" : "<p>Where I completed a Beast</p>"
+	},
+	{
+		"title" : "Lebec",
+		"lat" : 34.829010631104055,
+		"lon" : -118.85655054678199,
+		"desc" : "<p>Where I completed a Sprint and Beast</p>"
+	},
+	{
+		"title" : "Pala",
+		"lat" : 33.36899551614345,
+		"lon" : -117.05312589337419,
+		"desc" : "<p>Where I completed a Sprint and Beast</p>"
+	},
+	{
+		"title" : "Vail",
+		"lat" : 33.4716235947875,
+		"lon" : -116.99122712364401,
+		"desc" : "<p>Where I completed a Sprint</p>"
+	},
+	{
+		"title" : "Sacramento",
+		"lat" : 38.4725699347181,
+		"lon" : -121.08042167920081,
+		"desc" : "<p>Where I completed a Sprint, Super, and Beast</p>"
+	},
+	{
+		"title" : "Monterey",
+		"lat" : 36.60513101411805,
+		"lon" : -121.69300007370492,
+		"desc" : "<p> Where I completed a Sprint, Super, and Beast</p>"
+	},
+	{
+		"title" : "Big Bear",
+		"lat" : 34.26151703310517,
+		"lon" : -116.84871813024223,
+		"desc" : "<p>Where I completed a Sprint and Beast</p>"
+	},
+	{
+		"title" : "San Jose",
+		"lat" : 37.40244758969196,
+		"lon" : -121.26730217182293,
+		"desc" : " <p>Where I completed a Sprint, Super, and Beast</p>"
+	},
+	{
+		"title" : "Arizona",
+		"lat" : 33.58099710283099,
+		"lon" : -111.6561866466021,
+		"desc" : "<p>Where I completed a Sprint and Super</p>"
+	},
+	{
+		"title" : "Vegas",
+		"lat" : 36.81222365276724,
+		"lon" : -114.03339468904319,
+		"desc" : "<p>Where I completed a Sprint and Super </p>"
+	}
+]

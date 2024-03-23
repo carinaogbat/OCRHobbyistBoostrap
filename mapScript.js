@@ -24,9 +24,6 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
-let markerSRJC = L.marker(srjcCoord).addTo(map);
-let popupSRJC = markerSRJC.bindPopup( "<h2>SRJC</h2> <p>Where I am currently completing my education.</p>" );
-
 populateMap();
 
 let browserLocation = document.getElementById("browserLocation");

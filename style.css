@@ -1,9 +1,67 @@
 body {
 	padding: 0;
 	margin: 0;
+	background-color: #1F2123;
+	color: #FEF6E9;
+	font-family: georgia; sans-serif;
 }
 
-html, body, #mymap {
-	height: 90%;
-	width: 100vw;
+#maphtml, #mapbody, #mymap {
+	height: 75%;
+	width: 75vw;
+}
+
+h1, h2, h3 {
+	color: #DAD3DE;
+}
+
+#home-sidebar {
+	background-color: #DAD3DE;
+	color: black;
+	border-radius: 10px;
+	h1, h2, h3 {
+		color: black;
+	}
+}
+
+#about-sidebar {
+	background-color: #DAD3DE;
+	color: black;
+	border-radius: 10px;
+}
+
+table {
+	/* margin-left: 20px;
+	margin-right: 20px; */
+	border: solid white;
+	/* border-collapse: collapse; */
+}
+
+td, th {
+	/* padding: 5px; */
+	border: thin dotted grey;
+	color: black;
+
+}
+
+th {
+	background-color: #A5A7B0;
+}
+
+tr:nth-child(even) {
+	background-color: #DAD3DE;
+}
+
+tr:nth-child(odd) {
+	background-color: #DEE0EB;
+}
+
+a {
+	color: #0FAEF7;
+}
+
+footer {
+	text-align: center;
+	padding: 15px;
+	font-size: x-small;
 }

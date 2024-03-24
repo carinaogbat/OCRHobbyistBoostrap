@@ -46,12 +46,14 @@
 
 	<body>
 		<div class="container">
+			<br>
 			<div class="row">
 				<div class="col-md-8" id="blog">
 					<h1>OCR Hobbyist Blog</h1>
-					<article>
+					<br>
+					<article class="border-bottom">
 						<header>
-							<h1>Obstacle Completion Tips</h1>
+							<h2>Obstacle Completion Tips</h2>
 							<time datetime="2023-12-02">12/02/23</time>
 						</header>
 						<p>
@@ -60,12 +62,15 @@
 							recently made a video to help guide you through some of the main obstacles
 							encounter in racing.
 						</p>
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/h21wov-4Rvc?si=W5N8PvOTKev9DZZp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+						<!-- width 560 height 315 -->
+						<iframe width="auto" height="auto" src="https://www.youtube.com/embed/h21wov-4Rvc?si=W5N8PvOTKev9DZZp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+						<br>
 					</article>
+					<br>
 
-					<article>
+					<article class="border-bottom">
 						<header>
-							<h1>San Luis Obispo</h1>
+							<h2>San Luis Obispo</h2>
 							<time datetime="2022-03-12">03/12/22</time>
 						</header>
 						<p>
@@ -86,9 +91,10 @@
 						</p>
 					</article>
 
-					<article>
+					<article class="border-bottom">
+						<br>
 						<header>
-							<h1>Oracle Park</h1>
+							<h2>Oracle Park</h2>
 							<time datetime="2021-12-04">12/04/21</time>
 						</header>
 						<p>
@@ -113,9 +119,10 @@
 						</p>
 					</article>
 
-					<article>
+					<article class="border-bottom">
+						<br>
 						<header>
-							<h1>Monterey</h1>
+							<h2>Monterey</h2>
 							<time datetime="2021-08-21">08/21/21</time>
 							</header>
 
@@ -135,12 +142,41 @@
 							Long pants are recommended, unless you would like to spend a few weeks
 							after the race treating poison oak you never even noticed on the trail.
 						</p>
+						<br>
 					</article>
 
 					
 				</div>
-				<div class="col-md-4">
-					<p>Subscribe</p>
+				<div class="col-md-4" id="subscribe-sidebar">
+
+						<form>
+							  <h3>Enjoying our blog?</h3>
+							  <h4>Subscribe below to receive each new post by email</h4>
+							  <div class="mb-3 form-check">
+								<input type="checkbox" class="form-check-input" id="exampleCheck1">
+								<label class="form-check-label" for="exampleCheck1">Subscribe to Blog</label>
+							  </div>
+						  <div class="mb-3">
+							<label for="name" class="form-label">First name:</label>
+							<input type="text" class="form-control" id="name">
+						  </div>
+						  <div class="mb-3">
+							<label for="exampleInputEmail1" class="form-label">Email:</label>
+							<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+						  </div>
+							<div class="mb-3">
+							  <label for="exampleFormControlTextarea1" class="form-label">Comments:</label>
+							  <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+							</div>
+							<select class="form-select" aria-label="Individual Coaching">
+							  <option selected>Coach Me</option>
+							  <option value="yes">Yes</option>
+							  <option value="no">No</option>
+							</select>
+							<br>
+						  <button type="submit" class="btn btn-secondary">Submit</button>
+						</form>
+					</p>
 				</div>
 			</div>
 		</div>

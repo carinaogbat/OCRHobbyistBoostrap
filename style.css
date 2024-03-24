@@ -6,9 +6,13 @@ body {
 	font-family: georgia; sans-serif;
 }
 
-#maphtml, #mapbody, #mymap {
+/* #maphtml, #mapbody, #mymap {
 	height: 75%;
 	width: 75vw;
+} */
+#mymap {
+	height: 50em;
+	width: 100%;
 }
 
 h1, h2, h3 {
@@ -28,6 +32,25 @@ h1, h2, h3 {
 	background-color: #DAD3DE;
 	color: black;
 	border-radius: 10px;
+}
+
+/* #subscribe-sidebar {
+	background-color: #DAD3DE;
+	color: black;
+	border-radius: 10px;
+	h1, h2, h3 {
+		color: black;
+	}
+} */
+
+form {
+	background-color: #DAD3DE;
+	color: black;
+	padding: 10px;
+	border-radius: 10px;
+	h1, h2, h3 {
+		color: black;
+	}
 }
 
 table {

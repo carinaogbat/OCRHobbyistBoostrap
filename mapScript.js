@@ -1,13 +1,13 @@
 
 let spartanIcon = L.icon({
-		iconUrl: 'Spartan.png',
+		iconUrl: 'images/Spartan.png',
 		iconSize:     [30, 58],
 		iconAnchor:   [22, 94], 
 		popupAnchor:  [-3, -76] 
 	});
 
 let theScreamIcon = L.icon({
-		iconUrl: 'theScream.png',
+		iconUrl: 'images/theScream.png',
 		iconSize:     [40, 58], 
 		iconAnchor:   [22, 94], 
 		popupAnchor:  [-3, -76] 
